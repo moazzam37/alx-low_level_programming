@@ -1,4 +1,4 @@
-#include "main.h"
+#include "main.c"
 /**
  * print_alphabet - Print alphabet in lowercase using only `_putchar`
  * Return: 0
