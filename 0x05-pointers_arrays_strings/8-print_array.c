@@ -5,7 +5,7 @@
  *   *@a: A pointer to an int that will be updated/ changed
  *    *@n: return value n
  *     *Return: void which ,means our answer is correct
- *      */
+ */
 
 void print_array(int *a, int n)
 

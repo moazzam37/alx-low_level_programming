@@ -5,7 +5,7 @@
  *   *@str: A pointer to an int that will be changed
  *    *
  *     *Return: void which means it is correct
- *      */
+ */
 
 void puts2(char *str)
 {
